@@ -1,0 +1,12 @@
+---
+title: "Runxi"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* A 4th-year computational biology student
+* Play basketball
+* Love cooking
