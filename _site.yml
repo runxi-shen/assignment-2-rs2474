@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Runxi"
+      href: runxi.html
+    - text: "Nobody"
+      href: nobody.html
